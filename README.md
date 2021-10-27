@@ -1,3 +1,5 @@
 # Notebook-2021
 
-git submodule add <https://github.com/egreenw99/CircuitPython>
+CircuitPython <https://github.com/egreenw99/CircuitPython>
+
+Intermediate CAD <https://github.com/egreenw99/Intermediate-CAD>
